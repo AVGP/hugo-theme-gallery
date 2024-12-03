@@ -1,3 +1,3 @@
-module github.com/avgp/hugo-theme-gallery/watermark-1.2
+module github.com/avgp/hugo-theme-gallery
 
 go 1.20
